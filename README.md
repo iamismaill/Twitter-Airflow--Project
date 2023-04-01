@@ -5,4 +5,3 @@ In this mini project , I gained hands-on experience in extracting data from Twit
 This helped me to gain practical knowledge in utilizing Airflow's workflow management capabilities to automate data processing tasks. Finally, I learned how to store data in Amazon S3, a highly scalable and secure cloud storage service, which can be useful in building production-level data pipelines. Overall, this project provided me with a comprehensive understanding of several key data engineering concepts and tools.
 
 ![twitter](https://user-images.githubusercontent.com/51711008/201462230-7d767c6a-6367-40f7-8b82-cd23a14998ab.jpeg)
-d
