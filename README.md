@@ -1,4 +1,4 @@
-**Twitter Airflow Project **
+**Twitter Airflow Project**
 
 In this mini project , I gained hands-on experience in extracting data from Twitter using the Twitter API, and wrote Python scripts to transform and clean the extracted data. Additionally, I created a free trial account on Amazon Web Services (AWS) and installed Apache Airflow on an EC2 instance, allowing me to build and deploy my code as a pipeline. 
 
