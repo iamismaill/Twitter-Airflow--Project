@@ -1,8 +1,5 @@
 **Twitter Airflow Project**
- 
-
 ![twitter](https://user-images.githubusercontent.com/51711008/201462230-7d767c6a-6367-40f7-8b82-cd23a14998ab.jpeg)
-
 
 ## Project Overview
 The **Twitter-Airflow-Project** is an ETL pipeline designed to extract data from Twitter using the Twitter API, transform and clean it, and load it into a specified storage medium (e.g., database, CSV file). The pipeline is built using Apache Airflow for automation, ensuring periodic data extraction and processing with minimal manual intervention.
